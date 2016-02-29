@@ -12,7 +12,7 @@ This code takes in an **RNA string**, and produces the **first peptide chain** g
 ### Usage instructions (Non-Git):
 1. `Download ZIP` on top-right corner and unzip.
 2. Save the `RNAtoProtein` folder to your `code` folder you create on your `Desktop`.
-3. Go to the **Command Line (Windows) / Terminal (Mac)**, and into your `RNAtoProtein` folder using `cd`
+3. Go to the **Command Line (Windows: Start -> All Programs -> Assessories -> Command Prompt) / Terminal (Mac)**, and into your `RNAtoProtein` folder using `cd`
 
 In this example, I saved the `RNAtoProtein` folder in my `Desktop`'s `code` folder.
 Therefore I would do (on a Mac it would look like):
