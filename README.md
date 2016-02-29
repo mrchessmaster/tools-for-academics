@@ -11,18 +11,16 @@ This code takes in an **RNA string**, and produces the **first peptide chain** g
 
 ### Usage instructions (Non-Git):
 1. `Download ZIP` on top-right corner and unzip.
-2. Save the `RNAtoProtein` folder to your `GVHSSA` folder.
+2. Save the `RNAtoProtein` folder to your `code` folder.
 3. Go to the **Command Line (Windows) / Terminal (Mac)**, and into your `RNAtoProtein` folder using `cd`
 
-In this example, I saved the `RNAtoProtein` folder in my `Desktop`'s `GVHSSA` folder's `github` folder's `GVHSSA` folder.
+In this example, I saved the `RNAtoProtein` folder in my `Desktop`'s `code` folder.
 Therefore I would do (on a Mac it would look like):
 ```
 Last login: Sun Feb 28 20:41:02 on ttys000
 Davids-MacBook-Pro-3:~ chessmaster$ cd Desktop
-Davids-MacBook-Pro-3:Desktop chessmaster$ cd GVHSSA
-Davids-MacBook-Pro-3:GVHSSA chessmaster$ cd github
-Davids-MacBook-Pro-3:github chessmaster$ cd GVHSSA
-Davids-MacBook-Pro-3:GVHSSA chessmaster$ cd RNAtoProtein
+Davids-MacBook-Pro-3:Desktop chessmaster$ cd code
+Davids-MacBook-Pro-3:code chessmaster$ cd RNAtoProtein
 ```
 What you type should go after the `$` sign.
 
@@ -39,22 +37,22 @@ Davids-MacBook-Pro-3:RNAtoProtein chessmaster$ ./protein-translation.run
 
 ### Usage instructions (Git):
 1. Download and install Git if you have not yet.
-2. Go to the **Command Line/Terminal**, and into your `GVHSSA` folder using `cd`
+2. Go to the **Command Line/Terminal**, and into your `code` folder using `cd`
 
-In this example, I saved the `GVHSSA` folder in my `Desktop`.
+In this example, I saved the `code` folder in my `Desktop`.
 Therefore I would do (on a Mac it would look like):
 ```
 Last login: Sun Feb 28 20:41:02 on ttys000
 Davids-MacBook-Pro-3:~ chessmaster$ cd Desktop
-Davids-MacBook-Pro-3:Desktop chessmaster$ cd GVHSSA
+Davids-MacBook-Pro-3:Desktop chessmaster$ cd code
 ```
 What you type should go after the `$` sign.
 
 3. Type the following code:
 ```
-Davids-MacBook-Pro-3:GVHSSA chessmaster$ git clone https://github.com/mrchessmaster/GVHSSA.git
-Davids-MacBook-Pro-3:GVHSSA chessmaster$ cd GVHSSA
-Davids-MacBook-Pro-3:GVHSSA chessmaster$ cd RNAtoProtein
+Davids-MacBook-Pro-3:code chessmaster$ git clone https://github.com/mrchessmaster/tools-for-academics.git
+Davids-MacBook-Pro-3:code chessmaster$ cd tools-for-academics
+Davids-MacBook-Pro-3:tools-for-academics chessmaster$ cd RNAtoProtein
 ```
 
 4. Type the following code to run:
