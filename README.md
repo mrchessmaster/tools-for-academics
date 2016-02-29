@@ -1,4 +1,4 @@
-# Academic tools for undergraduate courses
+# Academic tools
 
 Some useful tools for undergraduate mathematics, statistics, biology, economics and more.
 
