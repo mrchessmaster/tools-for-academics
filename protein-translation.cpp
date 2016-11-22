@@ -86,7 +86,7 @@ int main(){
 		} else if (started && (temp == "UAA" || temp == "UAG" || temp == "UGA")) {
 			started = false;
 			break;
-		} else {
+		} else if (started) {
 			aa += "-";
 			aa += m[temp];
 		}
